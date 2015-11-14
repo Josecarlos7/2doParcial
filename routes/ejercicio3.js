@@ -1,0 +1,1 @@
+console.log("6"===6);//datos iguales pero tipo diferente
